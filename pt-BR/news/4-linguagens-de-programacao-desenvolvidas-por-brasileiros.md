@@ -20,7 +20,7 @@ No entanto, o movimento começou a crescer mesmo somente após os anos 1980, qua
 
 Hoje em dia, além de diversas conquistas e avanços no cenário internacional da computação, desenvolvimento de software e robótica, o Brasil também já conta com diferentes tipos de linguagens de programação com inúmeras funcionalidades.
 
-# 1–Lua
+# Lua
 
 <figure><br>
   <img
@@ -44,7 +44,7 @@ Essa qualidade foi o que a tornou muito eficiente, e por isso adotada pelos enge
 
 A LUA é uma linguagem de programação rápida e leve, projetada para estender aplicações. Já com relação à sua estrutura, ela é uma combinação de sintaxe simples para programação procedural com poderosas construções para descrição de dados baseadas em tabelas associativas e semântica extensível.
 
-# 2–Elixir
+# Elixir
 
 <figure><br>
   <img
@@ -74,7 +74,7 @@ A linguagem de programação brasileira conta com o Mix, uma ferramenta de compi
 
 O código Elixir é executado em pequenas threads, chamadas de processos. Esses processos são totalmente isolados e trocam informações através de mensagens. Na comunidade Erlang existe um conceito chamado ‘let it crash’ ou, em português, ‘deixe falhar’. Ou seja, a única certeza que um desenvolvedor tem sobre um código que é executado em produção é que as coisas podem não dar certo. Para isso, o Elixir implementa uma feature de supervisão do código que está sendo executado.
 
-# 3–Boo
+# Boo
 
 <figure><br>
   <img
@@ -96,7 +96,7 @@ Além disso, o Boo atende diferentes objetivos de acordo com o desejo do program
 
 Apesar de ser desenvolvida por um brasileiro, sua fama é principalmente internacional pois foi escrita em inglês. Seus ambientes de desenvolvimento incluem os editores de código Notepad++ e Sublime Texto. Todo suporte para trabalhar melhor com ela, no entanto, está disponível em seu repositório no GitHub.
 
-4–Portugol
+# Portugol
 
 <figure><br>
   <img
