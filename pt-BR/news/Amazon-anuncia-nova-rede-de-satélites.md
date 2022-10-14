@@ -18,17 +18,7 @@ A mudança de planos ocorreu devido a atrasos no desenvolvimento dos foguetes da
 
 De acordo com o anúncio da companhia, o lançamento dos dois primeiros satélites da constelação acontecerão no primeiro trimestre de 2023, época em que também está agendado a estreia do novo foguete orbital da ULA, uma joint venture das gigantes Boeing e Lockeed Martin que irá competir com os lançadores da Space X de Elon Musk.
 
-# Amazon e sua rede de satélites
-
-<figure><br>
-  <img
-    src="https://github.com/lokize/alw3code/blob/main/img/Lua.jpg?raw=true"
-    alt=""
-  />
-  <figcaption>
-    Lua <a href="https://www.lua.org/"><strong>Language</strong></a>
-  </figcaption>
-</figure>
+# Amazon e sua rede de satelites
 
 Os protótipos de satélites, que irão como carga extra no superfoguete de 61 metros de altura da ULA, representam o “pontapé inicial” de uma constelação projetada para 3.236 satélites que voarão na órbita baixa da Terra. Sua missão é transmitir internet de “banda larga rápida e acessível para comunidades não atendidas e mal atendidas em todo o mundo”, diz a Amazon.
 
