@@ -1,6 +1,6 @@
 ---
 title: "Amazon anuncia nova rede de satélites"
-token: "Amazon anuncia nova rede de satélites com novo foguete em 2023"
+token: "Amazon anuncia nova rede de satélites"
 category: amazon
 description: "A mudança de planos ocorreu devido a atrasos no desenvolvimento dos foguetes da startup californiana ABL Space Systems"
 media: https://github.com/lokize/alw3code/blob/main/img/amazonfoguetes.jpg?raw=true
