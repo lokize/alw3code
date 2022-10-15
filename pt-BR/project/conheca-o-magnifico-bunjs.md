@@ -62,7 +62,7 @@ No geral o bun acaba sendo mais rápido que o seu concorrentes em lidar com requ
   </figcaption>
 </figure>
 
-#### Operações por segundo
+#### Operacoes por segundo
 
 <figure><br>
   <img
